@@ -8,4 +8,6 @@ I'm Lilian, a Software Developer passionate about how AI has been shaping the fu
   
 🌱 I’m currently learning Ruby on Rails
 
+📃 Here's my [CV](https://github.com/ortizlilian/Resume#readme) 
+
 📫 Please do reach me at [LinkedIn](https://www.linkedin.com/in/ortizlilian/) or [Twitter](https://twitter.com/lilian_ortiz)
